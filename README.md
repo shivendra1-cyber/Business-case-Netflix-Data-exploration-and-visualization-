@@ -1,5 +1,7 @@
 
 # Netflix Data Analytics Project
+<img width="798" alt="image" src="https://github.com/shivendra1-cyber/Business-case-Netflix-Data-exploration-and-visualization-/assets/68283342/7252ce7a-5c3f-49ea-bd61-22a7ebca54fd">
+
 
 📊 This GitHub project, hosted by [shivendra1-cyber](https://github.com/shivendra1-cyber), is an insightful analysis of Netflix's business using data analytics techniques. It harnesses the capabilities of Python libraries like NumPy and Pandas to explore and visualize Netflix's dataset.
 
@@ -13,6 +15,8 @@
 
 3. **Data Visualization**
    - Employ the Seaborn library to create visualizations that enhance the understanding and communication of the insights gained from the data analysis.
+   - <img width="710" alt="image" src="https://github.com/shivendra1-cyber/Business-case-Netflix-Data-exploration-and-visualization-/assets/68283342/fc1f1d6a-9eff-4141-9d4c-910bcf0273e2">
+
 
 ## Project Objectives
 
